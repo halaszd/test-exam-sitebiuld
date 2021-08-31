@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-exam-sitebuild/static/css/main.f0a967c5.chunk.css",
+    "main.js": "/test-exam-sitebuild/static/js/main.24600f7e.chunk.js",
+    "main.js.map": "/test-exam-sitebuild/static/js/main.24600f7e.chunk.js.map",
+    "runtime-main.js": "/test-exam-sitebuild/static/js/runtime-main.a0fe4f67.js",
+    "runtime-main.js.map": "/test-exam-sitebuild/static/js/runtime-main.a0fe4f67.js.map",
+    "static/js/2.9022609e.chunk.js": "/test-exam-sitebuild/static/js/2.9022609e.chunk.js",
+    "static/js/2.9022609e.chunk.js.map": "/test-exam-sitebuild/static/js/2.9022609e.chunk.js.map",
+    "static/js/3.a5165781.chunk.js": "/test-exam-sitebuild/static/js/3.a5165781.chunk.js",
+    "static/js/3.a5165781.chunk.js.map": "/test-exam-sitebuild/static/js/3.a5165781.chunk.js.map",
+    "index.html": "/test-exam-sitebuild/index.html",
+    "static/css/main.f0a967c5.chunk.css.map": "/test-exam-sitebuild/static/css/main.f0a967c5.chunk.css.map",
+    "static/js/2.9022609e.chunk.js.LICENSE.txt": "/test-exam-sitebuild/static/js/2.9022609e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0fe4f67.js",
+    "static/js/2.9022609e.chunk.js",
+    "static/css/main.f0a967c5.chunk.css",
+    "static/js/main.24600f7e.chunk.js"
+  ]
+}
