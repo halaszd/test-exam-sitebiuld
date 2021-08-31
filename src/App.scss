@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  outline: none;
+  text-decoration: none;
+  font-family: 'Kaisei HarunoUmi', serif;
+  font-weight: 400;
+  box-sizing: border-box;
+  background-color: #eae9e4;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a img {
+  border: none;
+}
+
+button,
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}
+button,
+input,
+textarea,
+select {
+  appearance: none !important;
+  border-radius: 0;
+}
+
+.App {
+	margin: 50px;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+
+	svg {
+		fill: white;
+		background-color: black;
+	}
+	.menu-icon {
+		align-self: flex-end;
+		background-color: black;
+		width: 70px;
+		height: 70px;
+		border-radius: 45px;
+	}
+
+	.publications {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+
+		button {
+			width: 140px;
+			height: 30px;
+			color: white;
+			align-self: flex-start;
+			background-color: black;
+			border: 1px solid black;
+			border-radius: 15px
+		}
+
+		h3 {
+			font-size: 12px;
+		}
+	}
+}
